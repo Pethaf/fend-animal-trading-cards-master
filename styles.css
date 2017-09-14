@@ -15,6 +15,7 @@ body
 {
   max-width: 300px;
   margin: 0 auto;
+  border: 1px solid black;
 }
 
 .text-container
@@ -31,8 +32,17 @@ body
 {
   font-weight: bold;
 }
-
+ul
+{
+  list-style: none;
+  padding-left: 0;
+}
 li
 {
   margin-bottom: 5px;
+}
+
+.namedisplay
+{
+  border:1px solid black;
 }
