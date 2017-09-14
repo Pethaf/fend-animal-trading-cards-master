@@ -1,0 +1,38 @@
+body
+{
+  width: 600px;
+}
+.card
+{
+  max-width: 300px;
+  margin: 15px;
+  padding: 15px;
+  border: 1px solid black;
+  box-shadow: 10px 10px 5px -2px #888;
+}
+
+.card img
+{
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+.text-container
+{
+  margin-top: 15px;
+  border: 1px solid black;
+  padding: 0 15px 10px;
+}
+.flavour-text
+{
+  font-style:  italic;
+}
+.label
+{
+  font-weight: bold;
+}
+
+li
+{
+  margin-bottom: 5px;
+}
